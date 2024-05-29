@@ -38,6 +38,7 @@ Welcome to my GitHub profile. I am a university student in Prague. I am studying
 <ul>
   <li> NAS server (under the kind supervision of Prof. P.K. from Přf UK)</li>
   <li> Light AI project in the field of AML detection </li>
+  <li> Discord bot </li>
   <li> Helping with web-scraping for friends in university </li>
 </ul>
 
