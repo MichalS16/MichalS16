@@ -1,6 +1,6 @@
 # 👋 **Hello there**!
 
-Welcome to my GitHub profile. I am a university student in Prague. I am studying Economics and finance at IES FSV UK and IT at 42 Prague. Between my interests belong to technology especially programming and IT overall. I enjoy connecting my knowledge from these two fields in my work and projects.
+Welcome to my GitHub profile. I am a university student in Prague. I am studying Economics and finance at IES FSV UK and ICT at Prg.ai Minor/ 42 Prague. My interests are in technology, especially programming and AI. I enjoy connecting my knowledge from these two fields in my work and projects.
 
 ## ✍ Contact me
 
@@ -29,7 +29,7 @@ Welcome to my GitHub profile. I am a university student in Prague. I am studying
 ## 📚 Learning sources:
 
 <ul>
-  <li> University study at IES FSV UK, MFF UK, 42 Prague</li>
+  <li> Study at IES FSV UK, MFF UK, 42 Prague, Prg.ai Minor</li>
   <li> Udemy, Datacamp, Sololearn, edX, W3schools</li>
 </ul>
 
