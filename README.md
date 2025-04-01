@@ -14,15 +14,10 @@ Welcome to my GitHub profile. I am a university student in Prague. I am studying
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michals16&show_icons=true&locale=en&layout=compact&theme=dark" alt="michals16" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="R" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
-<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 <img align="left" alt="Mathematica" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Mathematica_Logo.svg" />
 <img align="down" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-<img align="left" alt="Slack" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" />
-<img align="left" alt="R-studio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" />
-<img align="down" alt="VScode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" />
-<img align="left" alt="Latex" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" />
+<img align="down" alt="Latex" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" />
 <br />
 <br />
 
@@ -37,7 +32,6 @@ Welcome to my GitHub profile. I am a university student in Prague. I am studying
 
 <ul>
   <li> NAS server </li>
-  <li> Light AI project in the field of AML detection </li>
   <li> Discord bot </li>
   <li> Helping with web-scraping for friends in university </li>
 </ul>
@@ -45,7 +39,6 @@ Welcome to my GitHub profile. I am a university student in Prague. I am studying
 ## 🤯 Projects ideas:
 
 <ul>
-  <li> Home NAS server</li>
 </ul>
 
 ## 🔪 Joke storage:
