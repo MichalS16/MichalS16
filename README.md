@@ -12,14 +12,15 @@ Welcome to my GitHub profile. I am a university student in Prague. I am studying
 
 ## 💻 Programming & Software Stack
 
-<img alt="Python" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" /> &nbsp;
-<img alt="Julia" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/julia/julia-original.svg" /> &nbsp;
-<img alt="R" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" /> &nbsp;
-<img alt="SQL/Postgresql" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" /> &nbsp;
-<img alt="Mathematica/Wolfram" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wolfram/wolfram-original-wordmark.svg" /> &nbsp;
-<img alt="Git" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" /> &nbsp;
-<img alt="Linux/Ubuntu" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original-wordmark.svg" /> &nbsp;
-<img alt="Heroku" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-plain-wordmark.svg" />
+<img title="Python" alt="Python" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" /> &nbsp;
+<img title="Julia" alt="Julia" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/julia/julia-original.svg" /> &nbsp;
+<img title="R" alt="R" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" /> &nbsp;
+<img title="PostgreSQL" alt="SQL/Postgresql" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" /> &nbsp;
+<img title="Wolfram Mathematica" alt="Mathematica/Wolfram" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wolfram/wolfram-original-wordmark.svg" /> &nbsp;
+<img title="Git" alt="Git" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" /> &nbsp;
+<img title="Ubuntu Linux" alt="Linux/Ubuntu" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original-wordmark.svg" /> &nbsp;
+<img title="Heroku" alt="Heroku" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-plain-wordmark.svg" />
+
 
 ## 👨‍💻 Besides work and university, I am in my free time working on
 
