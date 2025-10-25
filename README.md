@@ -1,6 +1,6 @@
 # 👋 **Hello!**
 
-Welcome to my GitHub profile. I am a university student in Prague. I am studying Economics and Finance at IES FSV UK and ICT at Prg.ai Minor. My interests are in technology, especially programming and AI. I enjoy connecting my knowledge from these two fields in my work and projects.
+Welcome to my GitHub profile. I am a Master’s student based in Prague, studying Data Analytics and Financial Markets at IES FSV UK, and also a candidate in the Prg.ai Minor, a selective program across Czech universities for AI students. My main interests lie in economics, finance, and technology, and I enjoy connecting these fields in my work and projects. I am also actively participating in machine learning competitions, further developing my skills in AI and data-driven problem solving.
 
 ## 📫 Contact me
 
