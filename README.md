@@ -27,3 +27,5 @@ Welcome to my GitHub profile. I am a Master’s student based in Prague, studyin
 - **Discord Bot** - Developing and managing a bot for an unofficial school server, including user authentication, AI integration, API data handling, and database management.
 - **Insider Trading Tracker** - Analytical tool monitoring insider trading activity, integrating multiple data sources and real-time market data to provide insights and transparency. [Webpage](https://senator-trading-c21778d285e7.herokuapp.com/)
 - **Custom PC Builds** - Designing and assembling PCs from individual components, covering both high-performance systems and older hardware maintained for reliability.
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MichalS16&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="MichalS16" />
