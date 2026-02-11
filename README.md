@@ -18,3 +18,6 @@ I am a Master’s candidate in Financial Markets and Data Analysis at IES FSV UK
 <img title="Markdown" alt="Markdown" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" />
 
 ## 💻 Personal Projects
+
+- **Discord Chatbot** - An AI-driven Discord bot featuring natural language intent processing to orchestrate multi-step API calls, supported by a database for secure authentication and internal game state management.
+- **Senators-trading** – A financial analytics platform built with Streamlit that utilises asynchronous scraping to aggregate U.S. Senators' trading data and employs K-Means clustering to identify correlations between political sectors and investment strategies. [Link](https://senator-trading-c21778d285e7.herokuapp.com/)
